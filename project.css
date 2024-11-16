@@ -1,0 +1,144 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a237e;  /* Dark blue background */
+    color: #fff;  /* White text color to stand out against dark background */
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* Header Section */
+header {
+    background-color: #333;  /* Dark grey for the header */
+    color: #fff;
+    padding: 40px 0;
+}
+
+header h1 {
+    font-size: 3.5em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.5em;
+}
+
+/* Bio Section */
+.bio {
+    padding: 30px 20px;
+    background-color: #1976D2;  /* Lighter blue background for bio */
+    color: white;
+}
+
+.bio h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.bio p {
+    font-size: 1.2em;
+}
+
+/* Why This Website Section */
+.why-website {
+    padding: 30px 20px;
+    background-color: #0d47a1;  /* Slightly darker blue */
+    color: white;
+}
+
+.why-website h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.why-website p {
+    font-size: 1.2em;
+}
+
+/* Family Inspiration Section */
+.family-inspiration {
+    padding: 30px 20px;
+    background-color: #1565C0;  /* Blue background */
+    color: white;
+}
+
+.family-inspiration h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.family-inspiration p {
+    font-size: 1.2em;
+}
+
+/* Learned So Far Section */
+.learned-so-far {
+    padding: 30px 20px;
+    background-color: #1E88E5;  /* A nice medium blue */
+    color: white;
+}
+
+.learned-so-far h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.learned-so-far ul {
+    list-style: none;
+    font-size: 1.2em;
+    padding-left: 0;
+}
+
+.learned-so-far li {
+    margin-bottom: 15px;
+}
+
+/* Future Goals Section */
+.future-goals {
+    padding: 30px 20px;
+    background-color: #1565C0;  /* Matching blue */
+    color: white;
+}
+
+.future-goals h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.future-goals p {
+    font-size: 1.2em;
+}
+
+/* Contact Info Section */
+.contact-info {
+    padding: 30px 20px;
+    background-color: #1976D2;  /* Lighter blue for contact */
+    color: white;
+}
+
+.contact-info h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    font-size: 1.2em;
+}
+
+/* Footer Section */
+footer {
+    background-color: #333;  /* Dark grey footer */
+    color: #fff;
+    padding: 15px 0;
+    margin-top: 40px;
+}
+
+footer p {
+    font-size: 1.1em;
+}
